@@ -1,4 +1,5 @@
 ### Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 <!--
 **chaitanya-kolliboyina/chaitanya-kolliboyina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image title](https://rushter.com/counter.svg)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chaitanya-kolliboyina)](https://git.io/streak-stats)
