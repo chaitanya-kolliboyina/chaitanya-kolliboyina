@@ -1,5 +1,6 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chaitanya-kolliboyina&left_color=green&right_color=red)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanya-kolliboyina)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **chaitanya-kolliboyina/chaitanya-kolliboyina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
