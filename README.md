@@ -3,6 +3,8 @@
 # 💫 About Me:
 I'm currentlu learning about Transformers and Generative AI
 
+[![](https://visitcount.itsvg.in/api?id=chaitanya-kolliboyina&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaitanya_kolliboyina) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chaitanya-kvs/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@Writtenby_CK) 
@@ -18,6 +20,6 @@ I'm currentlu learning about Transformers and Generative AI
 ![](https://github-contributor-stats.vercel.app/api?username=chaitanya-kolliboyina&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chaitanya-kolliboyina&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
