@@ -1,7 +1,8 @@
 
 
 # 💫 About Me:
-I'm currentlu learning about Transformers and Generative AI
+I'm currently learning about Transformers and Generative AI.
+Interested in building AI-powered products.
 
 [![](https://visitcount.itsvg.in/api?id=chaitanya-kolliboyina&icon=0&color=0)](https://visitcount.itsvg.in)
 
